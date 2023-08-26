@@ -12,7 +12,7 @@ Yes, [https://www.gatsbyjs.com/](GatsbyJS). It is a React-based open source fram
 
 ## Get It Working
 
-Grab a copy of the respistory. Unpack it and from the command line
+Grab a copy of the repository. Unpack it and from the command line...
 
 `> npm install`
 

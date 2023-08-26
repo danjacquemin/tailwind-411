@@ -8,6 +8,8 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: `/tailwind`,
+
   siteMetadata: {
     title: `Tailwind CSS 411 :: danjacquemin.com`,
     description: `Tailwind CSS test drive.`,
@@ -55,4 +57,4 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-postcss`,
   ],
-}
+};

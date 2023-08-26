@@ -21,6 +21,18 @@ const IndexPage = () => (
           tailwindcss.com
         </a>
       </p>
+      <p className="italic">
+        FYI &mdash; this whole 411/Gatsby{" "}
+        <a
+          href="https://github.com/danjacquemin/tailwind-411"
+          target="_blank"
+          rel="noreferrer"
+        >
+          project is on GitHub
+        </a>{" "}
+        so you can enjoy the CSS and various config files . You're welcome.
+      </p>
+      <hr />
       <h2>
         CSS Linter Unhappy with <code>@apply</code>
       </h2>

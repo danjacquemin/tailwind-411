@@ -115,7 +115,7 @@ const IndexPage = () => (
         <div className="wrap-text font-extralight md:flex md:flex-col md:justify-center md:p-4 md:py-0">
           <blockquote className="text-balance mb-4">
             <p>
-              &ldquo;<em className="font-normal">Duty, Honor, Country:</em>
+              &ldquo;<em className="font-normal">Duty, Honor, Country:</em>{" "}
               Those three hallowed words reverently dictate what you ought to
               be, what you can be, what you will be. They are your rallying
               points: to build courage when courage seems to fail; to regain
